@@ -15,7 +15,7 @@ def link
   puts phrase
 end
 
-def game
+def any_args
   phrase = "Do A Barrel Roll!"
   puts phrase
 end
